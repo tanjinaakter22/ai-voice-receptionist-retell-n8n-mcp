@@ -225,7 +225,29 @@ The system can be tested using the Retell AI Test Audio interface.
 
 Screenshots and demonstration materials will be available in the `assets/` folder.
 
----
+
+## 📸 Project Screenshots
+
+### ⚙️ n8n Workflow Architecture
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/f3aa1567-56b6-4ddf-9545-3a51a8306aa8" />
+
+
+### 🤖 Retell AI Voice Agent
+<img width="1280" height="719" alt="image_2026-11-16_10-52-56" src="https://github.com/user-attachments/assets/c669477e-a90f-4e50-a280-4acc000793f1" />
+
+
+### 🔌 MCP Tools Configuration
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/7f272789-bc9e-4c2b-8fd9-2c14afc1902b" />
+![MCP Tools](assets/mcp-tools.png)
+
+### 📊 Google Sheets Database
+<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/5fb94d22-8fa2-4210-b13a-17cd556f16ff" />
+
+
+### 📅 Automated Appointment Booking
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/df9ec029-0324-4258-992c-28f34c98c1f8" />
+
+
 
 ## 💼 Business Value
 
